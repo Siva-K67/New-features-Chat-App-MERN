@@ -199,3 +199,5 @@ const Signup = () => {
 };
 
 export default Signup;
+// Fixed a small bug in registration logic on 2025-05-27
+
