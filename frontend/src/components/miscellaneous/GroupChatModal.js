@@ -192,3 +192,6 @@ const GroupChatModal = ({ children }) => {
 };
 
 export default GroupChatModal;
+
+// Started building group chat modal (2025-06-03)
+
