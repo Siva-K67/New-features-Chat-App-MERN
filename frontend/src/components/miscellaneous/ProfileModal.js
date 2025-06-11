@@ -1,3 +1,5 @@
+// Added user profile modal UI and user search feature (2025-06-11)
+
 import { ViewIcon } from "@chakra-ui/icons";
 import {
   Modal,
