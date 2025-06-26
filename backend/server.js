@@ -89,3 +89,6 @@ io.on("connection", (socket) => {
     socket.leave(userData._id);
   });
 });
+
+// Integrated socket.io for real-time messaging (2025-06-26)
+
