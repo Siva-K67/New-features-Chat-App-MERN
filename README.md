@@ -1,1 +1,1 @@
-Progressing well. Just connected MongoDB to the backend.
+Implemented the RED Notification feature. 
