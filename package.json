@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
+    "dev": "nodemon server.js",
     "server": "nodemon backend/server.js",
     "build": "npm install --legacy-peer-deps && npm install --legacy-peer-deps --prefix frontend && npm run build --prefix frontend"
   },
@@ -12,8 +13,7 @@
     "mern",
     "chat-app"
   ],
-  "author": "Piyush Agarwal",
-  "license": "ISC",
+  "author": "C Siva Kumar",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
